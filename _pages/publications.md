@@ -7,7 +7,8 @@ author_profile: true
 
 # Research
 
-&nbsp
+<hr style="border: 0.2px #dddddd;">
+
 ## Publications
 ## Grouped Patterns of Heterogeneity in Panel Data
 Bonhomme, S., & Manresa, E. (2015). Grouped Patterns of Heterogeneity in Panel Data. Econometrica, 83, 1147-1184.
