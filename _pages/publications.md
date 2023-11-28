@@ -1,13 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-# Research
-
-<hr style="border: 0.2px #dddddd;">
 
 ## Publications
 ## Grouped Patterns of Heterogeneity in Panel Data
