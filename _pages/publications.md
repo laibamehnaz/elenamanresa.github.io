@@ -8,8 +8,8 @@ author_profile: true
 
 **<span style="font-size: 25px; line-height: 1.5;">Publications </span>** 
 ---
-**<span style="font-size: 18px; line-height: 0.3;">Grouped Patterns of Heterogeneity in Panel Data</span>** 
-<span style="line-height: 0.2;">Econometrica, 83, 1147-1184.</span>
+**<p style="font-size: 18px; margin-bottom: 2.5px;">Grouped Patterns of Heterogeneity in Panel Data</p>** 
+<p style="margin-bottom: 2.5px;">Econometrica, 83, 1147-1184.</p>
 
 <details>
   <summary><span style="color:blue; text-decoration:underline; font-size: 14px; line-height: 0.2;">Abstract</span></summary>
