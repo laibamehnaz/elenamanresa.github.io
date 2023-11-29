@@ -1,6 +1,8 @@
 ---
-permalink: /research/
-title: Research
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
 ---
 
 
