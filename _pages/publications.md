@@ -29,3 +29,10 @@ classification while the generator minimizes it. We show that, with a sufficient
 rich discriminator, the adversarial estimator attains parametric efficiency under correct specification and the parametric rate under misspecification. We advocate the use of a neural network as a discriminator that can exploit adaptivity properties and attain fast rates of convergence. We apply our method to the elderly’s saving decision model and show that our estimator uncovers the bequest motive as an important source of saving across the wealth distribution, not only for the rich.</p>
 </details>
 
+<details>
+  <summary>Dropdown Title</summary>
+
+  - [Link 1](https://www.example.com)
+  - [Link 2](https://www.example.com)
+  - [Link 3](https://www.example.com)
+</details>
