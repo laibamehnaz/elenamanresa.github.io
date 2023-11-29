@@ -30,9 +30,11 @@ rich discriminator, the adversarial estimator attains parametric efficiency unde
 </details>
 
 <details>
-  <summary>Dropdown Title</summary>
+  <summary>Details</summary>
 
-  - [Link 1](https://www.example.com)
+  <details><summary>Abstract</summary>
+    Text....
+  </details>
   - [Link 2](https://www.example.com)
   - [Link 3](https://www.example.com)
 </details>
