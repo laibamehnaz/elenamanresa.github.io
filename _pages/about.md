@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Associate Professor at New York University.
+I am an Associate Professor at New York University.
 
 &nbsp;
 
