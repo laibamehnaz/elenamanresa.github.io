@@ -34,10 +34,6 @@ rich discriminator, the adversarial estimator attains parametric efficiency unde
     <summary>Section 1</summary>
     Content for Section 1.
   </details>
-
-  <details>
-    <summary>Section 2</summary>
-    Content for Section 2.
-  </details>
+  <a href="https://www.jstor.org/stable/43616962">Paper</a>
 </div>
 
