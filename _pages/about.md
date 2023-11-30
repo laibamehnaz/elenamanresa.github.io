@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor at New York University.
+\
+I am Associate Professor at New York University.
 
 &nbsp;
+
+- [CV](files/CV.pdf)
 
 **Contact information:** <br>
 Department of Economics <br>
