@@ -11,8 +11,6 @@ redirect_from:
 \
 I am Associate Professor at New York University.
 
-&nbsp;
-
 - [CV](files/CV.pdf)
 
 **Contact information:** <br>
